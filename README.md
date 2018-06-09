@@ -1,4 +1,6 @@
- Map tracing tool using motion sensors inside an android smartwatch
+# Edit readme file required.
+
+Map tracing tool using motion sensors inside an android smartwatch
 =============
  
  - This project is a tool for pedestrian dead-reckoning system using smartwatch.
